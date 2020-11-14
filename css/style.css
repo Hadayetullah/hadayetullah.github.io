@@ -9,3 +9,11 @@ body{
     background: #8C8C8B;
     /*margin: auto; */
 }
+
+.nav-attribute{
+
+}
+
+.nav-attribute ul{
+    text-transform: uppercase;
+}
