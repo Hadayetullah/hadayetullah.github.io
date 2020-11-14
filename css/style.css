@@ -17,3 +17,7 @@ body{
 .nav-attribute ul{
     text-transform: uppercase;
 }
+
+.about-container{
+    background: #00A8BD;
+}
