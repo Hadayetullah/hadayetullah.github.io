@@ -17,3 +17,15 @@ body{
 .about-container{
     background: #00A8BD;
 }
+.education-container{
+    background: #EDEDEC;
+}
+.circle {
+	background: #FF8F7C;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+.circle p{
+    text-align: center;
+}
