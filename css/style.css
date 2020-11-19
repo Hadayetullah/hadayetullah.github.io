@@ -10,6 +10,11 @@ body{
     /*margin: auto; */
 }
 
+.navbar-container{
+    top: 0;
+    position: sticky;
+    z-index: 3;
+}
 .nav-attribute ul{
     text-transform: uppercase;
 }
@@ -31,4 +36,32 @@ body{
 }
 .project-container{
     background: #1FA7E2;
+}
+.contact-container{
+    background:#454C5C;
+}
+.inner-form{
+    background: #565F75;
+}
+.bg-redtype{
+    background: #FF8F7C;
+}
+.bg-redtype:hover{
+    color:black!important;
+}
+.footer{
+    background: #1FA7E2;
+}
+.social{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background:white;
+    font-size: 40px;
+    text-align: center;
+    color: #1FA7E2;
+}
+.social:hover{
+    background: #565F75;
 }
